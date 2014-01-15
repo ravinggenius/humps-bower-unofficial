@@ -1,0 +1,24 @@
+{
+  "name": "humps-unofficial",
+  "version": "0.0.0",
+  "authors": [
+    "Thomas Ingram <code@ravinggenius.com>"
+  ],
+  "description": "Unofficial bower wrapper for humps library",
+  "main": "humps.js",
+  "keywords": [
+    "humps",
+    "underscore",
+    "camelcase",
+    "converter"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ravinggenius/humps-bower-unofficial",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
